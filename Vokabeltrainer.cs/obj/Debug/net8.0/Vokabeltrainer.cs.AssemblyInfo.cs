@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vokabeltrainer.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeecf7d8bd3982e836f517f86cac7c8ac63a96aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vokabeltrainer.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vokabeltrainer.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

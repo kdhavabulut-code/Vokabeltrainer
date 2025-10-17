@@ -12,3 +12,4 @@ C:\Users\HavabulutKadriye\source\repos\Vokabeltrainer.cs\Vokabeltrainer.cs\obj\D
 C:\Users\HavabulutKadriye\source\repos\Vokabeltrainer.cs\Vokabeltrainer.cs\obj\Debug\net8.0\Vokabeltrainer.cs.pdb
 C:\Users\HavabulutKadriye\source\repos\Vokabeltrainer.cs\Vokabeltrainer.cs\obj\Debug\net8.0\Vokabeltrainer.cs.genruntimeconfig.cache
 C:\Users\HavabulutKadriye\source\repos\Vokabeltrainer.cs\Vokabeltrainer.cs\obj\Debug\net8.0\ref\Vokabeltrainer.cs.dll
+C:\Users\HavabulutKadriye\source\repos\Vokabeltrainer.cs\Vokabeltrainer.cs\obj\Debug\net8.0\Vokabeltrainer.cs.sourcelink.json
